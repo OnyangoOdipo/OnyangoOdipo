@@ -31,15 +31,16 @@ Welcome to my GitHub! I specialize in building modern, high-performance web and 
 
 <p align="center">
   <a href="https://github.com/OnyangoOdipo">
-    <img src="https://github-readme-stats.vercel.app/api?username=OnyangoOdipo&theme=dark&show_icons=true&hide_border=true" alt="GitHub Stats" />
+    <img src="https://github-profile-trophy.vercel.app/?username=OnyangoOdipo&theme=onedark&margin-w=15&margin-h=15" alt="Trophies" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/OnyangoOdipo">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OnyangoOdipo&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=OnyangoOdipo&theme=dark&show_icons=true&hide_border=true&include_private=true" alt="GitHub Stats (including private repos)" />
   </a>
 </p>
+
 
 ---
 
